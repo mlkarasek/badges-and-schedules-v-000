@@ -7,11 +7,10 @@ def batch_badge_creator
 
 end
 
-def assign_rooms(names)
-
+def assign_rooms(name)
   return "Hello, #{names}! You'll be assigned to room #{number}!"
 end
-end
+
 
 def printer(name)
 
