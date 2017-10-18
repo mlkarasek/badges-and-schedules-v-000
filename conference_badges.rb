@@ -1,4 +1,4 @@
-def badge_creator("name")
+def badge_creator(name)
     returns "Hello, my name is #{name}"
 end
 
