@@ -14,4 +14,6 @@ end
 
 def printer(name)
 
+  return "Hello, my name is #{name}"
+
 end
