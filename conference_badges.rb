@@ -3,7 +3,7 @@ def badge_creator(name)
 end
 
 def batch_badge_creator
-
+  name.collect 
 
 end
 
